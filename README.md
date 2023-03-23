@@ -1,4 +1,5 @@
-# 抖音弹幕爬虫
+# 抖音弹幕爬虫 已启用
+新版 -> [XiaoMiku01/douyin-live-go](https://github.com/XiaoMiku01/douyin-live-go)
 
 pip install playwright
 
